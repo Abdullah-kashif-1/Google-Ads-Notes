@@ -32,7 +32,7 @@ You’ll see results like:
 👉 Example:  
 
 Ad | Buy Shoes Online - 50% Off  
-www.example.com  
+
 
 💡 These ads appear because advertisers are bidding on keywords.  
 
