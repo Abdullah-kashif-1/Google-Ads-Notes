@@ -1,3 +1,5 @@
+![Banner](
+)
 # 📊 Introduction to Google Ads  
 
 A beginner-friendly guide to understanding how Google Ads works 🚀  
