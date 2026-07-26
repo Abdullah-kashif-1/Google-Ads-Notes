@@ -54,7 +54,8 @@ A properly configured billing system ensures uninterrupted campaign delivery.
 
 ## 📌 Overview  
 
-This repository is part of a structured learning path covering Google Ads fundamentals, campaign setup, and optimization strategies.  
+These notes are developed through my own learning journey, combining research, practice, and real understanding of digital advertising concepts.
+
 
 ---
 
